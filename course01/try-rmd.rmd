@@ -1,0 +1,15 @@
+
+# primary heading
+* "1"
+* "2"
+* "3"
+
+## 2-ary heading
+* "one"
+* "two"
+* "three"
+
+### 3-ary heading
+* "first"
+* "second"
+* "third"
